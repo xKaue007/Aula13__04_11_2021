@@ -12,7 +12,7 @@ public class Pessoa{
     }
     
     public void setEndereco(String endereco){
-        this.endereço = endereco;
+        this.endereco = endereco;
     }
     public String getEndereco(){
         return this.endereco;
